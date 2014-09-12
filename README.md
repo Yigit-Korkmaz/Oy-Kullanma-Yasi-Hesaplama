@@ -1,4 +1,4 @@
 Oy-Kullanma-Yasi-Hesaplama
 ==========================
 
-Oy kullanma yaşını hesaplar
+Calculates the voting age
